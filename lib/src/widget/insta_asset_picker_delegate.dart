@@ -20,7 +20,7 @@ const _kExtendedCropViewPosition = 0.0;
 /// Scroll offset multiplier to start viewer position animation
 const _kScrollMultiplier = 1.5;
 
-const _kIndicatorSize = 20.0;
+const _kIndicatorSize = 28.0;
 const _kPathSelectorRowHeight = 50.0;
 const _kActionsPadding = EdgeInsets.symmetric(horizontal: 8, vertical: 8);
 
